@@ -17,7 +17,7 @@
 
 #define DEFAULT_BAUDRATE    B9600
 #define DEFAULT_DEVICE      "/dev/ttyACM0"
-#define AVERAGE_SIZE        4
+#define AVERAGE_SIZE        3
 #define PHASE_MAXID         32
 #define SERVER_TARGET       "10.241.0.254"
 #define SERVER_PORT         30502
