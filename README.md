@@ -1,4 +1,10 @@
 # Current Raspberry
+
+**Deprecated**
+
+Now everything is handled by the Arduino itself and an Ethernet Shield. Raspberry Pi are not used anymore as gateway.
+
+## Old Release
 Gateway between Arduino and record server.
 
 # Installation
